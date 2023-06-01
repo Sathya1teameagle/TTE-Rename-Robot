@@ -34,3 +34,15 @@ view - view current thumbnail
 ● [BOT UPDATES](https://t.me/mkn_bots_updates)
 
 ● [SUPPORT GROUP](https://t.me/mkn_botz_discussion_group)
+
+
+##deploy to render
+
+<a href="https://render.com/deploy?repo=https://github.com/Sathya1teameagle/TTE-Rename-Robot">
+
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+
+</a>
+
+
+
